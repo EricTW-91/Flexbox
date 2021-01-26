@@ -49,3 +49,8 @@ img{
     width: 30%;
 }
 
+@media (max-width: 800px){
+    figure{
+        width: 80%;
+    }
+}
